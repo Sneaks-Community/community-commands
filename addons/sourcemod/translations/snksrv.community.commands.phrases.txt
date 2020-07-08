@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"Community Discord"
+	{
+		"en"		"[{LIGHTBLUE}SNK.SRV{DEFAULT}] {grey}Join us on Discord @ {purple}snksrv.com/discord"
+	}
+	
+	"Community Donate"
+	{
+		"en"		"[{LIGHTBLUE}SNK.SRV{DEFAULT}] {grey}Thanks for considering donating! You can find all donation perks & packages here: {lime}snksrv.com/donate"
+	}
+	
+	"Community Forum"
+	{
+		"en"		"[{LIGHTBLUE}SNK.SRV{DEFAULT}] {lightblue}Come chat with us, and give your ideas/suggestions/bug reports on our forum @ {lime}www.snksrv.com"
+	}
+	
+	"Community Teamspeak"
+	{
+		"en"		"[{LIGHTBLUE}SNK.SRV{DEFAULT}] {lightgreen}Join us on Teamspeak @ {darkred}ts.snksrv.com"
+	}
+	
+	"Community Website"
+	{
+		"en"		"[{LIGHTBLUE}SNK.SRV{DEFAULT}] {grey}Join us online at: {green}www.snksrv.com"
+	}
+}
